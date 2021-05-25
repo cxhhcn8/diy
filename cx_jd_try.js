@@ -1,6 +1,6 @@
 /*
-update 2021/4/11
-京东试用：脚本更新地址 https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js
+update 2021/5/11
+京东试用：脚本更新地址 https://raw.githubusercontent.com/cxhhcn8/diy/edit/main/cx_jd_try.js
 脚本兼容: QuantumultX, Node.js
 
 ⚠️ 非常耗时的脚本。最多可能执行半小时！
